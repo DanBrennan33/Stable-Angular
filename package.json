@@ -1,0 +1,24 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "Angular Framework Practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanBrennan33/Stable-Angular.git"
+  },
+  "author": "DanBrennan33",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanBrennan33/Stable-Angular/issues"
+  },
+  "homepage": "https://github.com/DanBrennan33/Stable-Angular#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
